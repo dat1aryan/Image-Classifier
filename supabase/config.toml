@@ -1,0 +1,4 @@
+project_id = "axvcjxurruiggfrpclpv"
+
+[functions.classify-livestock]
+verify_jwt = false
